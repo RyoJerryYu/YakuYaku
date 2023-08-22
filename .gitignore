@@ -3,3 +3,4 @@ __pycache__/*
 models/*
 settings.ini
 resources
+.DS_Store
