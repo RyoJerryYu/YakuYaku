@@ -9,6 +9,7 @@ ebooklib = "*"
 pyqt6 = "*"
 bs4 = "*"
 numpy = "*"
+opencc = "*"
 
 [dev-packages]
 
